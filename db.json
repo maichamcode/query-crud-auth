@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "name": "iphone new",
+      "price": "2333",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "email": "mai@gmail.com",
+      "password": "$2a$10$rC9oAaL8O3Ceoo0RuNldFOq26RDS7t7pZ/.rYrxQ5CsQzND3K6Yfq",
+      "name": "mai",
+      "confirmPassword": "12345",
+      "id": 1
+    }
+  ]
+}
